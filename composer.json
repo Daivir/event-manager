@@ -1,5 +1,5 @@
 {
-  "name": "psr/event-manager",
+  "name": "event-manager",
   "description": "Event Manager Interface",
   "keywords": ["psr", "event", "event-manager", "event-manager-interface"],
   "type": "library",
