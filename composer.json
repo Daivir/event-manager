@@ -1,0 +1,21 @@
+{
+  "name": "psr/event-manager",
+  "description": "Event Manager Interface",
+  "keywords": ["psr", "event", "event-manager", "event-manager-interface"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Daivir",
+      "email": "32001784+Daivir@users.noreply.github.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Psr\\EventManager\\": "src/"
+    }
+  }
+}
