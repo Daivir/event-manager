@@ -1,5 +1,5 @@
 {
-  "name": "event-manager",
+  "name": "daivir/event-manager",
   "description": "Event Manager Interface",
   "keywords": ["psr", "event", "event-manager", "event-manager-interface"],
   "type": "library",
